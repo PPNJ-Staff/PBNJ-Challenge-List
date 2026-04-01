@@ -8,23 +8,6 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Toastisss",
-            "link": "https://youtu.be/W4HIdPAayGM",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "Batthumbs",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "hydrix",
-            "link": "https://youtu.be/Eag2fVrGnSY ",
-            "percent": 100,
-            "hz": 360
-        }
+        
     ]
 }
