@@ -10,9 +10,15 @@
     "records": [
         {
             "user": "Noahgusbakery",
-            "link": "https://www.youtube.com/watch?v=7EGuNxuIj98 ",
+            "link": "https://www.youtube.com/watch?v=7EGuNxuIj98",
             "percent": 100,
             "hz": 360
+        }
+        {
+            "user": "Nicky",
+            "link": "https://youtu.be/fzBtc7TNxhk",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

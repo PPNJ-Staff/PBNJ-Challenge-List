@@ -22,9 +22,15 @@
         },
         {
             "user": "hydrix",
-            "link": "https://youtu.be/Eag2fVrGnSY ",
+            "link": "https://youtu.be/Eag2fVrGnSY",
             "percent": 100,
             "hz": 360
+        }
+        {
+            "user": "Nicky",
+            "link": "https://youtu.be/GSqnxy47USY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
